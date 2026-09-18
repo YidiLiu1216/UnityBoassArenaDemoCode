@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7adeb0fbe2feba4b9c15d6bb7cb276b, type: 3}
+  m_Name: BosscConfig
+  m_EditorClassIdentifier: Assembly-CSharp::BosscConfig
+  MaxSlamCDTime: 8
+  MinSlamCDTime: 15
+  SlamPrepareTime: 1.5
+  SlamActionPrepareTime: 0.9
+  SlamAnimationTime: 4
+  PunchRange: 2
+  PunchAngle: 120
+  PunchActionPrepareTime: 0.5
+  PunchAnimationTime: 1.1
+  PunchCDTime: 2
+  ReselectTime: 5
+  ChasingSpeed: 4
+  RotationSpeed: 120
+  RecoverTime: 0.5
